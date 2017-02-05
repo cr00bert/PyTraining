@@ -16,3 +16,4 @@ data = dict(zipped)
 # Build and inspect a DataFrame from the dictionary: df
 df = pd.DataFrame(data)
 print(df)
+

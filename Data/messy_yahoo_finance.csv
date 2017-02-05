@@ -1,0 +1,11 @@
+ The following stock data was collect on 2016-AUG-25 from an unknown source
+These kind of comments are not very useful are they?                        
+Probably should just throw this line away too but not the next since those are column labels  
+name,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+# So that line you just read has all the column... 
+ibm,95.221397,95.098801,107.196381,92.197342,98.814621,94.599213,103.11908,105.558037,112.472542,112.960037,110.519997,115.82
+# That MSFT is MicroSoft   
+msft,53.61869,49.876686,54.140907,48.8866,52.318272,50.51181,55.950935,57.074429,57.21349,59.517921,60.259998,62.139999
+googl,761.349976,717.219971,762.900024,707.880005,748.849976,703.530029,791.340027,789.849976,804.059998,809.900024,775.880005,792.450012
+aapl,120.209335,127.50956,147.38092,142.018967,151.053207,149.127457,157.812973,157.451599,157.421875,152.308258,162.220001,165.990005
+# Maybe we should have bought some Apple stock ...
